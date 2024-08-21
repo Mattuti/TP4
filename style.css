@@ -1,0 +1,41 @@
+
+    .contenedor{
+        background-color: rgb( 134, 115, 88);
+        position: relative;
+        display: block;
+        margin-top: 240px;
+        margin-left: 60px;
+        border: black 5px solid;
+        width: 300px;
+        height: 270px;
+
+    }
+    .contenedor2{
+    background-color: rgb(254, 255, 179);
+        text-align: relative;  
+        margin-left: 450px;  
+        margin-top: -500px;
+        display: block;
+        border: black 5px solid;
+        width: 300px;
+        height: 270px;
+    }   
+    .contenedor3{
+        background-color: rgb(219, 219, 219);
+        position: relative;
+        margin-left: 850px;
+        margin-top: -65px;
+        display: block;
+        border: black 5px solid;
+        width: 300px;
+        height: 270px;
+
+    }
+    .formulario{
+        display: flex;
+        justify-content: center;
+    }
+    form{
+        border: 2px solid black;
+        padding: 5px;
+    }
